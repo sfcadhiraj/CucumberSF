@@ -19,4 +19,4 @@ Rule: Most Fields are mandatory while logging In
   And user enters password "Feb2021@"
   And user clicks on Login button
   Then user gets title of the page
-  And page title should be "Lightning experience | Salesforce"
+  And page title should be "Lightning experience  | Salesforce"
