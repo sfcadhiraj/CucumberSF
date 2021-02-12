@@ -11,9 +11,9 @@ public class LoginPage {
      */
     private WebDriver driver;
     //By Locators
-    private By emailId = By.id("email");
-    private By password = By.id("psswd");
-    private By signInButton = By.id("SubmitLogin");
+    private By emailId = By.id("username");
+    private By password = By.id("password");
+    private By signInButton = By.id("Login");
 
     // Constructor
     public LoginPage(WebDriver driver){
